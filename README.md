@@ -62,3 +62,6 @@ Code adheres to Swift naming and style conventions.
 Code uses appropriate and effective comments.
 
 Code is readable and easy to follow. Any code that may be hard to understand is commented effectively.
+
+![Screen Shot 2021-06-04 at 8 48 42 AM](https://user-images.githubusercontent.com/85360095/120887764-0830b000-c5f5-11eb-8d81-2e4b366a8a7c.png)
+
